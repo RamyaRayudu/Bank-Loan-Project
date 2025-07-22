@@ -1,13 +1,17 @@
-# 💳 Bank Loan Project (Power BI + SQL + Python)
+
+# 💰 Bank Loan Project (Power BI + SQL + Python)
+
+This project explores and visualizes key trends in bank loan data to uncover insights related to loan amounts, customer verification status, loan grades, and payment behaviors.
 
 ## 📌 Objective
 
 The main goal of this project was to analyze bank loan performance using historical lending data. It focuses on:
-- Year-wise loan amount trends
-- Revolving balance by loan grade and sub-grade
-- Total payments by verification status
-- State-wise and month-wise loan status distribution
-- Home ownership versus last payment dates
+
+- 📈 **Year-wise Loan Amount Statistics**
+- 🏷️ **Grade and Sub-grade wise Revolving Balance (revol_bal)**
+- ✅ **Comparison of Total Payments: Verified vs Non-Verified Status**
+- 🗺️ **State-wise and Month-wise Loan Status Distribution**
+- 🏠 **Home Ownership vs Last Payment Date Analysis**
 
 ---
 
@@ -19,10 +23,11 @@ The main goal of this project was to analyze bank loan performance using histori
 ---
 
 ## 📁 Dataset
-- Source: [Kaggle – Loan Data](https://www.kaggle.com/)
+- **Type:** Personal dataset  
+- **Source:** Not publicly available 
 - Contains 39,000+ records of loan applications and financial metrics.
 
----
+--
 
 ## 💡 Key Insights
 
@@ -32,28 +37,32 @@ The main goal of this project was to analyze bank loan performance using histori
 - 🌍 **State-wise monthly loan status** revealed frequent defaults in certain months.
 - 🏠 All categories of **home ownership** show nearly equal distribution of last payment dates, suggesting ownership doesn't significantly influence timely payments.
 
+
+
 ---
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](./4d2438a9-7a38-47a1-858d-35bd94e32eea.png)
+*Dashboard created using Power BI.*
 
-> *(Click image to view full size)*
+> 📌 *[<img width="1173" height="651" alt="image" src="https://github.com/user-attachments/assets/685b678e-1707-4bd8-a3ef-fff279999aab" />]*  
+
 
 ---
 
 ## ⚙️ How to Run This Project
 
-1. Run **SQL scripts** to clean and extract relevant data
-2. Use **Python (Pandas)** to further clean or manipulate data (if needed)
-3. Import cleaned dataset into **Power BI** to build dashboards
-4. Explore insights using interactive charts and cards
+1. Run SQL queries to extract and transform raw data.
+2. Use Python (Pandas, etc.) to clean and preprocess the data.
+3. Load the cleaned dataset into Power BI.
+4. Explore insights through various filters and visualizations
 
 ---
 
 ## 🔗 Connect With Me
-
-**Ramya Devi**  
+ 
+**Ramya Devi** — Aspiring Data Analyst  
+💡 Skills: SQL | Power BI | Python | Excel | Data Cleaning | Tableau | DAX | Power Query | Data Analysis  
 📧 Email: ramyadevi626@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ramya-devi-rayudu-b13b251ba/)  
 🔗 [GitHub](https://github.com/RamyaRayudu)
@@ -65,6 +74,27 @@ The main goal of this project was to analyze bank loan performance using histori
 | File Name             | Description                                |
 |-----------------------|--------------------------------------------|
 | `Bank Loan project.pbix`      | Power BI dashboard                 |
-| `Bank project.sql`    | SQL queries for data extraction            |
-| `bank_loan_project.ipynb` | Python code for cleaning and prep      |
-| `README.md`           | Project documentation                      |
+| `Bank project.sql`            | SQL queries for data extraction    |
+| `bank_loan_project.ipynb`     | Python code for cleaning and prep  |
+| `README.md`                   | Project documentation              |
+
+---
+
+⭐ If you found this project insightful, feel free to give it a **star**!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
